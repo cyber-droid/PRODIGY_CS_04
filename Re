@@ -1,0 +1,9 @@
+Requirements
+
+Python 3.x
+
+pynput library
+
+Disclaimer
+
+This keylogger is intended for educational purposes only. Unauthorized use of keyloggers can violate privacy laws. Use responsibly.
